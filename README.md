@@ -79,3 +79,5 @@ Clean UI and modern color theme
 Real-time filtering and drill-down
 
 Business-ready dashboard
+Screen shorts:
+Show what the dashboard looks like :https://github.com/pritam695/Uber-Dashboard/blob/main/UBER.pbit
