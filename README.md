@@ -80,4 +80,4 @@ Real-time filtering and drill-down
 
 Business-ready dashboard
 Screen shorts:
-Show what the dashboard looks like :https://github.com/pritam695/Uber-Dashboard/blob/main/UBER.pbit
+Show what the dashboard looks like :  https://github.com/pritam695/Uber-Dashboard/blob/main/UBER%20PB%20Dashboard.png
